@@ -1,1 +1,1 @@
-# WinFormsApp1   это программа на C#
+# WinFormsApp1  -  это программа на C#
