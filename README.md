@@ -1,1 +1,1 @@
-# WinFormsApp1   project2
+# WinFormsApp1   это программа на C#
